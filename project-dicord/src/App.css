@@ -1,0 +1,66 @@
+body {
+  background-color: #404EED;
+  padding: 2rem;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-start;
+  
+}
+
+.container-img img {
+  width: 8%;
+}
+
+.container-menu img {
+  width: 120%;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  font-size: 3rem;
+  color: white;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  width: 40rem;
+}
+
+.buttons-images {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.container-buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  width: 17rem;
+  height: 3rem;
+  border-radius: 30px;
+}
+
+.btn-white{
+  background-color: white;
+  border: none;
+  color: black; 
+  margin-top: 1rem;
+}
+
+.btn-blue{
+  background-color: black;
+  border: none;
+  color: white;
+  margin-top: 1rem;
+}
+
+.container-img img2 {
+  width: 60%;
+}
+
